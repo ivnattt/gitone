@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Gryffindorox</title>
+    <link rel="stylesheet" href="page.css">
+</head>
+<body>
+   
+<div class="first">
+    <div class="intro">Gryffindorox</div>
+</div>
+
+<div class="sec-first">
+    <div class="param">
+        <ul>
+            <li>Parampara</li>
+            <li>Pratishtha</li>
+            <li>Anushasan</li>
+        </ul>
+    </div>
+</div>
+<div class="main">
+  
+
+</div>
+</body>
