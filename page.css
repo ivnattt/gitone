@@ -1,0 +1,36 @@
+.first{
+    height:150px;
+    background-color: red;
+    float:left;
+  
+}
+.sec-first{
+    height:150px;
+    background-color:gold;
+   
+    
+}
+.param li{
+    font-size:35px;
+    float:left;
+    padding:50px 40px;
+    font-weight:bold;
+    text-decoration: underline;
+}
+.intro{
+    font-size: 60px;
+    float:left;
+    padding:40px;
+    font-weight:bold;
+    color:gold;
+    
+}
+li{
+    list-style-type: none;
+}
+
+.main{
+    border: 15px solid green;
+    height:520px;
+
+}
