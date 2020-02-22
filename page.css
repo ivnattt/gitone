@@ -1,11 +1,11 @@
 .first{
-    height:150px;
+    height:120px;
     background-color: red;
     float:left;
   
 }
 .sec-first{
-    height:150px;
+    height:120px;
     background-color:gold;
    
     
@@ -31,6 +31,7 @@ li{
 
 .main{
     border: 15px solid green;
-    height:520px;
-
+    height:420px;
+    padding-bottom: 60px;
+    padding-right: 60px;
 }
